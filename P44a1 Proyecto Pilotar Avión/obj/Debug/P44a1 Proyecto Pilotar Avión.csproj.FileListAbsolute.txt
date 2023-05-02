@@ -1,0 +1,8 @@
+C:\Users\Equipo\Desktop\CLASE\PROGRAMACION\4º evaluacion (objetos)\P44a1 Proyecto Pilotar Avión\P44a1 Proyecto Pilotar Avión\bin\Debug\P44a1 Proyecto Pilotar Avión.exe.config
+C:\Users\Equipo\Desktop\CLASE\PROGRAMACION\4º evaluacion (objetos)\P44a1 Proyecto Pilotar Avión\P44a1 Proyecto Pilotar Avión\bin\Debug\P44a1 Proyecto Pilotar Avión.exe
+C:\Users\Equipo\Desktop\CLASE\PROGRAMACION\4º evaluacion (objetos)\P44a1 Proyecto Pilotar Avión\P44a1 Proyecto Pilotar Avión\bin\Debug\P44a1 Proyecto Pilotar Avión.pdb
+C:\Users\Equipo\Desktop\CLASE\PROGRAMACION\4º evaluacion (objetos)\P44a1 Proyecto Pilotar Avión\P44a1 Proyecto Pilotar Avión\obj\Debug\P44a1 Proyecto Pilotar Avión.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\CLASE\PROGRAMACION\4º evaluacion (objetos)\P44a1 Proyecto Pilotar Avión\P44a1 Proyecto Pilotar Avión\obj\Debug\P44a1 Proyecto Pilotar Avión.csproj.SuggestedBindingRedirects.cache
+C:\Users\Equipo\Desktop\CLASE\PROGRAMACION\4º evaluacion (objetos)\P44a1 Proyecto Pilotar Avión\P44a1 Proyecto Pilotar Avión\obj\Debug\P44a1 Proyecto Pilotar Avión.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\CLASE\PROGRAMACION\4º evaluacion (objetos)\P44a1 Proyecto Pilotar Avión\P44a1 Proyecto Pilotar Avión\obj\Debug\P44a1 Proyecto Pilotar Avión.exe
+C:\Users\Equipo\Desktop\CLASE\PROGRAMACION\4º evaluacion (objetos)\P44a1 Proyecto Pilotar Avión\P44a1 Proyecto Pilotar Avión\obj\Debug\P44a1 Proyecto Pilotar Avión.pdb
