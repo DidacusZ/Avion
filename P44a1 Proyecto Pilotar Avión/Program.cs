@@ -15,7 +15,8 @@ namespace P44a1_Proyecto_Pilotar_Avión
 
             Avion avion = new Avion("AAP", "007", "CSI-2019",1000,0,0, false);
 
-            Console.WriteLine(avion.Marca="wss");
+            //avion.AumentarVelocidad(121);
+            //Console.WriteLine(avion.Velocidad);
 
             utils.MostarMenu();
 
